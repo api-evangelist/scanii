@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://docs.scanii.com/
 common:
+  - type: TrustCenter
+    url: security/scanii-trust-center.yml
+  - type: DomainSecurity
+    url: security/scanii-domain-security.yml
   - type: Website
     url: https://docs.scanii.com/
   - type: PublicAPIsListing

@@ -1,0 +1,12 @@
+generated: '2026-07-11'
+method: searched
+probe: true
+source: https://trust.scanii.com/
+url: https://trust.scanii.com/
+certifications:
+- GDPR
+evidence:
+- source: https://trust.scanii.com/
+  keywords:
+  - trust center
+  - gdpr
