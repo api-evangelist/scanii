@@ -39,7 +39,6 @@ apis:
   - name: Scanii
     description: "Simple REST API that can scan submitted documents/files for the presence of threats"
     humanURL: https://docs.scanii.com/
-    baseURL: https://docs.scanii.com/
     tags:
       - Anti Malware
     properties:
